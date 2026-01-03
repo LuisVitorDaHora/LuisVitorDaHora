@@ -1,3 +1,7 @@
+<h2 align="center">Luis Vitor Santos da Hora</h2>
+
+###
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -15,10 +19,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="23" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<p align="center">Luis Vitor Santos da Hora</p>
 
 ###
 
@@ -68,6 +68,11 @@
 
 ###
 
-<h3 align="left">🔥  GitHub Status:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
+
