@@ -66,6 +66,8 @@
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
 </div>
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisVitorDaHora/LuisVitorDaHora/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisVitorDaHora/LuisVitorDaHora/output/pacman-contribution-graph.svg">
