@@ -85,7 +85,7 @@
     src="https://github-readme-stats.vercel.app/api?username=LuisVitorDaHora&show_icons=true&theme=transparent" 
   />
 
-  <br>
+  
 
 <img 
       align="left" 
