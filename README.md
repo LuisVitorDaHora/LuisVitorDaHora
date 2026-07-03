@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">Me chamo Luis Vitor, tenho 23 anos e sou de São Paulo. Concluí o ensino médio no E.E Comendador Miguel Maluhy. Sou formado em Análise e desenvolvimento de Sistemas pela Cruzeiro do Sul e atualmente, estou cursando Engenharia de Computação no Centro Universitario UniFecaf.</p>
+<p align="center">Me chamo Luis Vitor, tenho 23 anos e sou de São Paulo. Concluí o ensino médio no E.E Comendador Miguel Maluhy. Sou formado em Análise e desenvolvimento de Sistemas pela Cruzeiro do Sul e atualmente, estou cursando Ciência de Dados no Centro Universitario UniFecaf.</p>
 
 ###
 
